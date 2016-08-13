@@ -1,0 +1,1 @@
+In this project, I implemented a version of a content-aware image resizing technique that uses seam carving in order to resize images. The method uses dynamic programming where sub-optimal seams are carved out of the images, leaving the resized image with the optimal seams which are selected based on the energy of their pixels. 
