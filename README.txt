@@ -1,0 +1,1 @@
+Projects for Introduction to Computer Vision. Each folder includes its own readme that briefly explains the objective of each project and all the code utilized. 
